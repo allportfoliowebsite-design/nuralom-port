@@ -30,7 +30,7 @@ const Navbar: React.FC = () => {
         
         {/* Logo - z-index barano hoyeche */}
         <a href="#home" className="relative z-[10001] text-xl font-bold tracking-tighter text-yellow-500">
-          NOOR ALOM MIA <span className="text-white"></span>
+          NOOR_ALOM_MIA <span className="text-white"></span>
         </a>
 
         {/* Desktop Links */}
