@@ -2,10 +2,10 @@ import React from 'react';
 
 const About: React.FC = () => {
   const details = [
-    { label: 'Full Name', value: 'Azizul Hakim' },
+    { label: 'Full Name', value: 'Noor Alom Mia' },
     { label: 'City', value: 'Rangpur, Bangladesh' },
-    { label: 'Age', value: '21 Years Old' },
-    { label: 'Email', value: 'azizulhakim124@gmail.com' },
+    { label: 'Age', value: '26 Years Old' },
+    { label: 'Email', value: 'nooralomsm@gmail.com' },
     { label: 'Nationality', value: 'Bangladeshi' },
     { label: 'Specialization', value: 'YouTube Promotion & SEO Expert' },
   ];
@@ -23,8 +23,8 @@ const About: React.FC = () => {
             <div className="relative rounded-3xl overflow-hidden shadow-2xl border border-white/5 bg-[#111]">
               <img 
                 // Notun Google Content Link Add Kora Hoyeche
-                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi25LTz1sL9E8Q3K7UnFAqp9qiGoT1gnO6K4dZTkhyJJtmcGG2dbavHzvtMge6f2cuj0D93F5_SZ3KV3XOthi3591vT89nJO5jAzTN_2I4cXdhIGTzy7bt_v-0Z75rgDiYTm0RpkLJw74d-jviHjkWra2ig2QXX8q248q5njt0OD8AUMQi1R2AT7jsrD3M/s1600/Screenshot_10.png" 
-                alt="Sujon Working" 
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwhMveFM79cBUuwn0kVluKyGMv9HdivpEg2i-5m2HuUGYa5QBxC7MFom1RPWQsh-YBDsHmZwdjMO1mBQN1Fua7S2q7FeylzowoClEtaSUx_CwswHDYOiXRqQJ7ZrgtOOcOmFAAZcASHyrASwFwgPJV7w89D5Dz3ywIFoN5bmUe7wryFdgCyusFiAKNLIoh/s320/WhatsApp%20Image%202026-03-12%20at%2012.34.39%20AM.jpeg" 
+                alt="Nooralom Working" 
                 className="w-full h-auto grayscale hover:grayscale-0 transition-all duration-700 scale-105 group-hover:scale-100 object-cover"
                 onError={(e) => {
                     // Jodi kono karone image load na hoy, tar jonno fallback
@@ -48,7 +48,7 @@ const About: React.FC = () => {
                 About <span className="underline decoration-yellow-500 decoration-2 underline-offset-[12px]">Me!</span>
               </h3>
               <p className="text-gray-400 text-lg leading-relaxed mb-10 font-light text-justify">
-                 <span className="text-white font-medium"></span> I’m Sujon Ahmed, a professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
+                 <span className="text-white font-medium"></span> I’m , Noor Alom Mia A professional digital marketer with a wealth of experience in SEO technical skills, social media management, and Google Ads campaigns. I specialize in helping businesses like yours attract more customers, increase visibility, and achieve measurable growth through strategic, data-driven marketing.
               </p>
             </div>
 
