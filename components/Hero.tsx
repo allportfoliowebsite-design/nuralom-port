@@ -48,7 +48,7 @@ const Hero: React.FC = () => {
         <div className="relative w-56 h-56 md:w-72 md:h-72 rounded-full overflow-hidden border-4 border-[#0a0a0a] shadow-2xl bg-[#111]">
           <img 
             src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz2Rzm5zp0r9cc_iJYxhip4ZJHQwY5fg7aTySn7j58uViLfbxx6qcFOr9dBc0FbY2SlqhzW7rsZ_si-Ope6ki3JVRkx94jqDrWDnVJ1RIKs3Ft5jNOV-yONMZW5oWzNNP8Wq0cIb4yuY7VS1OBX42QW69EWhF-43LxSEusMQH2wb1QG4kL4tL4btLORvYK/s320/WhatsApp%20Image%202026-03-12%20at%2012.41.28%20AM.jpeg" 
-            alt="Sujon Ahmed" 
+            alt="Noor Alom Mia" 
             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
           />
         </div>
