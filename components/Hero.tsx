@@ -64,7 +64,7 @@ const Hero: React.FC = () => {
         </div>
         
         <h1 className="text-4xl md:text-7xl font-extrabold mb-8 leading-[1.1] tracking-tight text-white">
-            Hi, <span className="text-gold-gradient italic font-serif">I'm Sujon Ahmed</span>
+            Hi, <span className="text-gold-gradient italic font-serif">I'm Noor Alom Mia</span>
           <br className="hidden md:block" /> A professional digital marketer
         </h1>
 
