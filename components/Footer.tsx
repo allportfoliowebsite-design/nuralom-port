@@ -4,7 +4,7 @@ const Footer: React.FC = () => {
   // Social link gulo ekhane update korte parbe
   const socials = [
     { name: 'Facebook', icon: 'fab fa-facebook-f', href: 'https://www.facebook.com/smmnooralom' },
-    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://www.instagram.com/smmnooralom/' },
+    { name: 'Instagram', icon: 'fab fa-instagram', href: 'https://www.instagram.com/dmsujonnbd/' },
     { name: 'Twitter', icon: 'fab fa-x-twitter', href: 'https://x.com/smmnooralom' },
     { name: 'linkedin', icon: 'fab fa-linkedin', href: 'https://www.linkedin.com/in/noor-alom-mia-3b03193b6/' },
     { name: 'YouTube', icon: 'fab fa-youtube', href: 'https://youtube.com' },
